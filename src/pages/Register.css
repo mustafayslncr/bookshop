@@ -1,0 +1,56 @@
+.register{
+    margin-top: 10px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://u7.uidownload.com/vector/355/739/vector-open-book-on-white-background-eps.jpg');
+    background-repeat: no-repeat;
+    background-position-x:center ;
+    font-family:initial
+}
+
+
+.registerTitle{
+    font-size: 65px;
+}
+
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm label {
+    margin: 10px 0;
+}
+
+.registerInput{
+    width: 250px;
+    padding: 10px;
+    background-color: #FAECDF;
+    border: none;
+    border-radius: 10px;
+}
+
+.registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #2B417E;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    color: white;
+}

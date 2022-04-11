@@ -1,0 +1,46 @@
+.login{
+    margin-top: 10px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://u7.uidownload.com/vector/355/739/vector-open-book-on-white-background-eps.jpg');
+    background-repeat: no-repeat;
+    background-position-x:center ;
+    font-family: initial; 
+}
+
+.loginTitle{
+    font-size: 65px;
+    
+}
+
+.loginForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm label {
+    margin: 10px 0;
+}
+
+.loginInput{
+    width: 250px;
+    padding: 10px;
+    background-color: #FAECDF;
+    border-radius: 10px;
+    border: none;
+}
+
+.loginButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #2B417E;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+

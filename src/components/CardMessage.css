@@ -1,0 +1,18 @@
+.cardmsg {
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardmsg span {
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cardmsg img {
+    width: 300px;
+    height: 300px;
+}
